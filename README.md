@@ -1,3 +1,8 @@
+-=(TaitoSJ_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # [Taito System SJ](https://www.system16.com/hardware.php?id=634)
 <p>Thank you to the following members of the MiSTer community: Boogermann, misterretrowolf, Sorgelig, & Jotego.</p>
 
